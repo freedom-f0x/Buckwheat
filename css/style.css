@@ -147,6 +147,15 @@ header h3 {
   text-transform: uppercase;
   margin:20px 0;
 }
+.mainTitle_2 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 10px;
+  text-transform: uppercase;
+    
+  margin:20px 0;
+}
 
 
 
@@ -232,6 +241,38 @@ header h3 {
 }
 
 
+.btn-1 {
+  display: inline-block; 
+  vertical-align: middle; 
+  padding: 10px 10px ; 
+  border-radius: 30px; 
+  transition: background .1s linear; 
+}
 
+.btn--silpo {
+  background-color: #cc73f0;
+}
+.btn--silpo:hover {
+  background-color: #a62eca;
+}
+
+.btn--eco {
+  background-color: #a3b8d1;
+}
+
+.btn--eco:hover {
+  background-color: #7f8fa3;
+}
+.btn--atb {
+  background-color: #754a6a;
+}
+
+.btn--atb:hover {
+  background-color: #01113f;
+}
+
+.btn-1 h3{
+
+}
 
 
